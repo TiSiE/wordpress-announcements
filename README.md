@@ -19,7 +19,7 @@ The main features are:
 License
 -------
 
-As this is a wordpress plugin, it is licensed under the [GPLv2][/LICENSE]
+As this is a wordpress plugin, it is licensed under the [GPLv2](/LICENSE)
 
 Installation
 ------------
