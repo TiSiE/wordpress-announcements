@@ -27,3 +27,4 @@ Installation
 As soon as the first release is out, you find installation instruction here.
 For now, there's nothing to install yet.
 
+Test
